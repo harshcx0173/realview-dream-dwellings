@@ -137,7 +137,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800 mb-1">Office Address</h3>
-                    <p className="text-gray-600">123 Real Estate Avenue<br />Suite 456<br />City, State 12345</p>
+                    <p className="text-gray-600">B-234, Sobo Centre, Gala Gymkhana Rd<br />South Bopal, Ahmedabad - 380058</p>
                   </div>
                 </div>
 
@@ -147,7 +147,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800 mb-1">Phone Number</h3>
-                    <p className="text-gray-600">+1 (555) 123-4567</p>
+                    <p className="text-gray-600">+91 76001 75255</p>
                   </div>
                 </div>
 
@@ -157,7 +157,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800 mb-1">Email Address</h3>
-                    <p className="text-gray-600">info@realviewreality.com</p>
+                    <p className="text-gray-600">realviewrealty@gmail.com</p>
                   </div>
                 </div>
 
@@ -195,7 +195,7 @@ const Contact = () => {
             <div className="text-center">
               <MapPin size={48} className="mx-auto text-gray-500 mb-4" />
               <p className="text-gray-600 text-lg">Google Maps Integration</p>
-              <p className="text-gray-500">123 Real Estate Avenue, City, State 12345</p>
+              <p className="text-gray-500">B-234, Sobo Centre, Gala Gymkhana Rd, South Bopal, Ahmedabad - 380058</p>
             </div>
           </div>
         </div>
